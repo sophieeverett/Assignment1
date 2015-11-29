@@ -5,6 +5,9 @@ nav {
   text-align: center;
   font-family: 'Fjalla One', sans-serif;
   word-spacing: 10px;
+  margin-left: 20px;
+  margin-top: 20px;
+  margin-right: 20px;
 }
 a {
   color: #424243;
@@ -23,25 +26,37 @@ a:hover {
   background: #00aeff;
   font-family: 'Fjalla One', sans-serif;
   color: white;
+  margin-left: 20px;
 }
 
 h1 {
     font-family: 'Fjalla One', sans-serif;
+    margin-left: 20px;
 }
 
 h2 {
     font-family: 'Fjalla One', sans-serif;
     font-size: 20px;
+    margin-left: 20px;
 }
 
 p {
     font-family: 'Fjalla One', sans-serif;
+    margin-left: 20px;
 }
 
 footer {
-    font-family: 'Fjalla One', sans-serif;
+  border-top: solid #d1d2d2;
+  border-bottom: solid #d1d2d2;
+  padding: 7px;
+  text-align: center;
+  font-family: 'Fjalla One', sans-serif;
+  word-spacing: 10px;
+  margin-left: 20px;
+  margin-right: 20px;
 }
 
 li {
     font-family: 'Fjalla One', sans-serif;
+    margin-left: 20px;
 }
