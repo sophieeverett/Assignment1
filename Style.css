@@ -1,0 +1,47 @@
+nav {
+  border-top: solid black;
+  border-bottom: solid black;
+  padding: 7px;
+  text-align: center;
+  font-family: 'Fjalla One', sans-serif;
+  word-spacing: 10px;
+}
+a {
+  color: #424243;
+  text-decoration: none;
+}
+a:hover {
+  color: #00aeff;
+}
+.circle {
+  height: 100px;
+  width: 100px;
+  display: table-cell;
+  text-align: center;
+  vertical-align: middle;
+  border-radius: 50%;
+  background: #00aeff;
+  font-family: 'Fjalla One', sans-serif;
+  color: white;
+}
+
+h1 {
+    font-family: 'Fjalla One', sans-serif;
+}
+
+h2 {
+    font-family: 'Fjalla One', sans-serif;
+    font-size: 20px;
+}
+
+p {
+    font-family: 'Fjalla One', sans-serif;
+}
+
+footer {
+    font-family: 'Fjalla One', sans-serif;
+}
+
+li {
+    font-family: 'Fjalla One', sans-serif;
+}
