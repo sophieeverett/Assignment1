@@ -8,6 +8,7 @@ nav {
   margin-left: 20px;
   margin-top: 20px;
   margin-right: 20px;
+  letter-spacing: 2px;
 }
 a {
   color: #424243;
@@ -17,8 +18,8 @@ a:hover {
   color: #00aeff;
 }
 .circle {
-  height: 100px;
-  width: 100px;
+  height: 120px;
+  width: 120px;
   display: table-cell;
   text-align: center;
   vertical-align: middle;
@@ -26,23 +27,31 @@ a:hover {
   background: #00aeff;
   font-family: 'Fjalla One', sans-serif;
   color: white;
-  margin-left: 20px;
+  letter-spacing: 2px;
+  line-height: 20px;
 }
 
 h1 {
     font-family: 'Fjalla One', sans-serif;
     margin-left: 20px;
+    font-size: 20px;
+    color: #424243;
+    letter-spacing: 2px;
 }
 
 h2 {
     font-family: 'Fjalla One', sans-serif;
     font-size: 20px;
     margin-left: 20px;
+    letter-spacing: 2px;
+    color: #00aeff;
+
 }
 
 p {
     font-family: 'Fjalla One', sans-serif;
     margin-left: 20px;
+    line-height: 22px;
 }
 
 footer {
@@ -54,9 +63,19 @@ footer {
   word-spacing: 10px;
   margin-left: 20px;
   margin-right: 20px;
+  letter-spacing: 2px;
+  font-size: 12px;
 }
 
 li {
     font-family: 'Fjalla One', sans-serif;
     margin-left: 20px;
+    line-height: 22px;
+}
+
+img {
+  max-width: 550px;
+  border-style: solid;
+  border-color: #d1d2d2;
+  border-width: 2px;
 }
